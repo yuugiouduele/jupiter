@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2023-07-19T20:52:54.031310",
+    "latitude": 35.65859297916666,
+    "lat_dir": "N",
+    "longitude": 139.74541359375,
+    "lon_dir": "E",
+    "altitude": 84.7,
+    "hdop": "1.22",
+    "Status": "A"
+  },
+  {
+    "timestamp": "2023-07-19T20:53:04.027535",
+    "latitude": 35.658584812499996,
+    "lat_dir": "N",
+    "longitude": 139.74543476041666,
+    "lon_dir": "E",
+    "altitude": 81.1,
+    "hdop": "1.50",
+    "Status": "A"
+  }
+]
